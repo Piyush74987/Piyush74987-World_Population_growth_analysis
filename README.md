@@ -34,10 +34,7 @@ Informing policy decisions on population management.
 Academic research on population dynamics.
 
 ## images
-
-<a href="https://github.com/Piyush74987/World_Population_growth_analysis/blob/main/population_graph.png"> World_Population_growth_analysis_image</a>
-
-
+![population_graph](https://github.com/user-attachments/assets/aef318cd-bf1c-47be-b84d-989267e671e7)
 
 
 
